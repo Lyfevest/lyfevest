@@ -1,2 +1,2 @@
-# lyfevest
-Public issue tracker for lyfevest,io
+# lyfevest.o
+Public issue tracker for lyfevest.io
