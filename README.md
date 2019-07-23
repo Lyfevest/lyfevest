@@ -1,4 +1,4 @@
-# lyfevest.o
+# lyfevest.io
 Public issue tracker for [lyfevest.io](https://lyfevest.io)
 
 
